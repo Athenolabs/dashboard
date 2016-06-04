@@ -1,6 +1,6 @@
 import_css_and_js = function() {
 	//frappe.require("assets/dashboard/images/icon-sprite.png");
-	frappe.require("assets/dashboard/css/sDashboard.css");
+	//frappe.require("assets/dashboard/css/sDashboard.css");
 
 	//frappe.require("assets/dashboard/js/jquery.min.js");
 	frappe.require("assets/dashboard/js/jquery-1.8.2.js");

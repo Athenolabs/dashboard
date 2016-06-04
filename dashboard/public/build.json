@@ -3,17 +3,7 @@
 		"public/css/jquery.gritter.css",
 		"public/css/sDashboard.css"
 
-    	],
-	"js/dashboard.min.js": [
-                "public/js/jquery-1.8.2.js",
-		"public/js/jquery-ui.js",
-		"public/js/jquery.ui.touch-punch.js",
-		"public/js/bootstrap.min.js",
-		"public/js/jquery.gritter.js",
-		"public/js/jquery.dataTables.js",
-		"public/js/flotr2.js",
-		"public/js/jquery-sDashboard.js"
-	]
+    	]
 
 }
 

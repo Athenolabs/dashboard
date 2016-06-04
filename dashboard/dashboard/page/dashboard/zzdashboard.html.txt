@@ -1,3 +1,0 @@
-<hr/>
-<ul id="dashboard"></ul>
-
