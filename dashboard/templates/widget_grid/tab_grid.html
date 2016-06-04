@@ -1,0 +1,26 @@
+{% if(!doc) { %}
+	<div class="row">
+		<div class="col-sm-2 col-xs-2">{%= __("Name") %}</div>
+		<div class="col-sm-4 col-xs-8">{%= __("Type") %}</div>
+		<div class="col-sm-4 col-xs-4">{%= __("View") %}</div>
+	</div>
+{% } else { %}
+	<div class="row">
+		<!-- Name -->
+		<div class="col-sm-2 hidden-xs text-right">
+			{%= doc.tab_name %}
+		</div>
+
+		<!-- Type -->
+		<div class="col-sm-2 hidden-xs text-right">
+			{%= doc.tab_type %}
+		</div>
+
+		<!-- View -->
+		<div class="col-sm-2 hidden-xs text-right">
+			{%= doc.view_name %}
+		</div>
+
+
+	</div>
+{% } %}
