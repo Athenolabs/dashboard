@@ -173,7 +173,7 @@ li.ui-sortable-placeholder {
 .sDashboard-icon {
 	margin: 0 5px 0 5px;
 	float: right;
-	background: url('icon-sprite.PNG') no-repeat;
+	background: url('assets/dashboard/images/icon-sprite.PNG') no-repeat;
 	width: 20px;
 	height: 20px;
 }

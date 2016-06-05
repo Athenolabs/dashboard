@@ -1,13 +1,13 @@
 import_css_and_js = function() {
-	//frappe.require("assets/dashboard/images/icon-sprite.png");
-	//frappe.require("assets/dashboard/css/sDashboard.css");
+	frappe.require("assets/dashboard/css/sDashboard.css");
 
 	//frappe.require("assets/dashboard/js/jquery.min.js");
-	frappe.require("assets/dashboard/js/jquery-1.8.2.js");
+	//frappe.require("assets/dashboard/js/jquery-1.8.2.js");
 	frappe.require("assets/dashboard/js/jquery-ui.js");
 	//frappe.require("assets/dashboard/js/bootstrap.min.js");
 	//frappe.require("assets/dashboard/js/jquery.gritter.js");
-	frappe.require("assets/dashboard/js/jquery.dataTables.min.js");
+	frappe.require("assets/dashboard/js/jquery.dataTables.js");
+	//frappe.require("assets/dashboard/js/jquery.dataTables.min.js");
 	frappe.require("assets/dashboard/js/flotr2.js");
 	frappe.require("assets/dashboard/js/jquery-sDashboard.js");
 }
