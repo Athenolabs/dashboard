@@ -12,7 +12,7 @@ Features
 How to Install
 ==============
 
- 1. Get Dashboard application with `bench get-app dashboard https://github.com/sanjay-kumar001/dashboard.git`
+ 1. Get Dashboard application with `bench get-app dashboard https://github.com/Athenolabs/dashboard.git`
  2. Install application in the framework with `bench install-app dashboard` 
 
 How to use it?
